@@ -1,0 +1,21 @@
+body {
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.dark {
+    background-color: #1f2937;
+}
+
+.logo, .description {
+    color: white;
+}
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+a {
+    flex: 1;
+    
+}
